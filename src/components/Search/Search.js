@@ -6,7 +6,7 @@ import React from 'react'
         };
          return (
            
-             <form  className="d-flex flex-sm-row flex-column alingn-items-center justify-content-center gap-4 s search">
+             <form  className="d-flex flex-sm-row flex-column alingn-items-center justify-content-center gap-4 s filter">
                      <input 
                        onChange={(e)=>{
                         setPageNumber(1);
